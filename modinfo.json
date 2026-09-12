@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.nikmx.rating",
+  "display_name": "PA Rating Reporter",
+  "description": "Reports match results to the community rating service (OpenSkill ratings: overall, 1v1, team, FFA) and shows ratings in the lobby. No gameplay changes. Ratings: https://nikolamx.pythonanywhere.com",
+  "author": "NikolaMX",
+  "version": "0.2.1",
+  "build": "124674",
+  "date": "2026-09-12",
+  "signature": "not implemented",
+  "priority": 50,
+  "titansOnly": false,
+  "category": [
+    "ui",
+    "stats"
+  ],
+  "scenes": {
+    "new_game": [
+      "coui://ui/mods/com.pa.nikmx.rating/new_game.css",
+      "coui://ui/mods/com.pa.nikmx.rating/common.js",
+      "coui://ui/mods/com.pa.nikmx.rating/new_game.js"
+    ],
+    "live_game": [
+      "coui://ui/mods/com.pa.nikmx.rating/common.js",
+      "coui://ui/mods/com.pa.nikmx.rating/live_game.js"
+    ]
+  }
+}

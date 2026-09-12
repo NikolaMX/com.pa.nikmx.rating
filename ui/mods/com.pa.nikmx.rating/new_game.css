@@ -1,0 +1,9 @@
+/* PA Rating: lobby badge next to player names */
+.pa-rating-badge {
+    display: inline-block;
+    margin-left: 6px;
+    font-size: 11px;
+    color: #9fd3ff;
+    text-shadow: 0 0 6px #00b3ff;
+    vertical-align: middle;
+}
