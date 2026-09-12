@@ -4,7 +4,7 @@
   "display_name": "PA Rating Reporter",
   "description": "Reports match results to the community rating service (OpenSkill ratings: overall, 1v1, team, FFA) and shows ratings in the lobby. No gameplay changes. Ratings: https://nikolamx.pythonanywhere.com",
   "author": "NikolaMX",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "build": "124674",
   "date": "2026-09-12",
   "forum": "https://steamcommunity.com/app/386070/discussions/0/804596534487491489/",
